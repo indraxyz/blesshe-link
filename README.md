@@ -1,6 +1,6 @@
 # blesshe-link
 
-web link for blesshe.id
+web link for blesshe.id using html, css, js, tailwind
 
 ## Views
 
@@ -22,4 +22,4 @@ web link for blesshe.id
 
 ## Authors
 
-[@indracahyae](https://www.github.com/indracahyae)
+[@indraxyz](https://www.github.com/indraxyz)
